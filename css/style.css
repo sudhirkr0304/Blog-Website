@@ -2,6 +2,8 @@
 body
 {
     font-family: 'Courier New', Courier, monospace;
+    margin-top: 50px;
+    
 }
 
 .container
@@ -14,7 +16,9 @@ body
     "sd mn mn mn mn mn"
     "ft ft ft ft ft ft";
     border: 2px solid gray;
-    margin: 50px;
+    padding: 1px;
+    border-radius: 10px;
+
     
 }
 
