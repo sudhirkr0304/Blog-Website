@@ -47,3 +47,10 @@ all the css for blog post
     text-align: center;
 }
 
+.author-info
+{
+    margin-left: 500px;
+  background-color: azure;
+  text-align: center;
+  width: 200px;
+}
