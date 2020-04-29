@@ -1,0 +1,9 @@
+
+/* this file is only used for import statements
+*/
+
+@import url("core.css");
+@import url("home.css");
+@import url("main.css");
+@import url("post.css");
+@import url("responsive.css");
