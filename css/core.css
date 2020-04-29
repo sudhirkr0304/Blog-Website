@@ -4,6 +4,7 @@ all the basic css common for all pages
 
 body
 {
+    width: 100%;
     font-family: 'Courier New', Courier, monospace;
     margin-top: 50px;   
 }
@@ -75,6 +76,7 @@ a:link {
 
 #header
 {
+    width: 100%;
     grid-area: hd;
     background-color: bisque;
     text-align: center;

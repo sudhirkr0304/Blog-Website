@@ -57,6 +57,7 @@ css file to design the home page
 
 #footer
 {
+    width: 100%;
     grid-area: ft;
     background-color: bisque;
     text-align: center;

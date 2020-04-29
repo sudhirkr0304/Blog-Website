@@ -49,8 +49,14 @@ all the css for blog post
 
 .author-info
 {
-    margin-left: 500px;
+  margin-left: 20%;
   background-color: azure;
   text-align: center;
   width: 200px;
+}
+
+.image
+{
+    width: 90%;
+    max-width: 1000px;
 }
